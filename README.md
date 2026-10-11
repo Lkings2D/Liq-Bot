@@ -20,3 +20,21 @@ Managing overnight risk or avoiding platform-specific session penalties can be c
 
 ```bash
 pip install requests
+```
+
+## Visual Overview
+
+<div align="center">
+  <p><strong>Image 1: Terminal view showing the successful closing of a position.</strong></p>
+  <img src="assets/SS1.png" alt="Terminal view showing a successful position close" width="900" />
+</div>
+
+<div align="center">
+  <p><strong>Image 2: Manually changing the scheduled time for testing purposes.</strong></p>
+  <img src="assets/ss2.png" alt="Manually changing the scheduled time for testing" width="900" />
+</div>
+
+<div align="center">
+  <p><strong>Image 3: Log showing a successful position close.</strong></p>
+  <img src="assets/ss3.png" alt="Log showing a successful position close" width="900" />
+</div>
